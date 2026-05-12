@@ -59,7 +59,7 @@ ICCPT requires Python 3.9+.
 ### macOS
 
 ```bash
-git clone https://github.com/orico10/CleanCooking_os.git
+git clone https://github.com/orico10/ICCPT.git
 cd CleanCooking_os
 # If the geopandas environment in the repo root exists, activate it.
 # Otherwise create a new environment using environment.yml.
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ### Windows
 
 ```cmd
-git clone https://github.com/orico10/CleanCooking_os.git
+git clone https://github.com/orico10/ICCPT.git
 cd CleanCooking_os
 Use the same requirements.txt as macOS
 python -m venv geopandas_venvlocal
@@ -103,6 +103,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you use ICCPT in academic or policy work, please cite:
 
-> O. Rico Diez, *ICCPT – Integrated Clean Cooking Planning Tool*, 2025. GitHub repository: https://github.com/orico10/CleanCooking_os
+> O. Rico Diez, *ICCPT – Integrated Clean Cooking Planning Tool*, 2025. GitHub repository: https://github.com/orico10/ICCPT
 
 A formal citation entry can be added later if the project publishes a paper or adopts `CITATION.cff`.
