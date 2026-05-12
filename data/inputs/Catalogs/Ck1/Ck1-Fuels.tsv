@@ -1,0 +1,10 @@
+Fuel_id	Fuel_name	Price	Calorific_value	Time_gender
+1	Electricity	0.199	1	0
+2	LPG	1.0161	13.139	0.02
+3	Biogas	1.0959	6.181	0.25
+4	Charcoal	0.2626	8.306	0.04
+5	Com-Firewood	0.0865	4.333	0.06
+6	Free-Biomass	0	4.636	1.5
+7	Pellets	0.275	5.192	0.04
+8	Free-Firewood	0	4.333	1
+9	Ethanol	0.824	8.24	0.03

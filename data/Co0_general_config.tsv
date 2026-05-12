@@ -1,0 +1,27 @@
+Name	Value	Units
+UTM_zone	36S	 
+Currency	RWF	 
+Exchange_rate	1341	USD/RWF
+Labor_cost	1.56	USD/hour
+Diesel_cost	1.15	USD/liter
+Very_high_voltage	220	kV
+High_voltage	110	kV
+Medium_voltage	33	kV
+Low_voltage	0.4	kV
+Frecuency	50	Hz
+System_peak_load	320	GW
+Electric_demand	650	TWh/year
+Distributed_factor 	1.05	 
+Emissions_rate	0.2	kgCO2/kWh
+Main_grid_reliability	0.95	 
+Power_losses_factor	0.1	 
+Average_grid_lifetime	35	years
+Generation_CAPEX	0.11	USD/kWh
+Generation_OPEX	0.03	USD/kWh
+Transmission_TOTEX	0.08	USD/kWh
+Distribution_TOTEX	0.25	USD/kWh
+Electricity_adoption	0.4	 
+LPG_adoption	0.2	 
+Diesel_emissions	3	kgCO2/litre
+WoodRawMaterial_Id	3	 
+Last_mile_distance	2	km

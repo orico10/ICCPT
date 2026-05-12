@@ -1,0 +1,575 @@
+year	Fuel_Id	Fuel_name	Sector	Sub_sector	OPEX/CAPEX/Income	M$/yr
+2025	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	10.553538270067502
+2025	0	All_Fuels	Carbon_Economy	Emissions	OPEX	23.133777216206347
+2025	1	Electricity	E-TOTAL	Tariff	INCOME	211.0446144864583
+2025	1	Electricity	E-cooking	Fraction of electricity	CAPEX	10.889674681108302
+2025	1	Electricity	E-cooking	Fraction of electricity	OPEX	0.8683389594050004
+2025	1	Electricity	E-cooking	Tariff	INCOME	4.1366431378149535
+2025	1	Electricity	Grid	Distribution	CAPEX	31.355468942939936
+2025	1	Electricity	Grid	Distribution	OPEX	3.5515196981072052
+2025	1	Electricity	Grid	Generation	CAPEX	42.159593778164734
+2025	1	Electricity	Grid	Generation	OPEX	14.352447624342936
+2025	1	Electricity	Off Grid	Distribution	CAPEX	7.081178257890173
+2025	1	Electricity	Off Grid	Distribution	OPEX	0.9168405420154238
+2025	1	Electricity	Off Grid	Generation	CAPEX	9.224151397662691
+2025	1	Electricity	Off Grid	Generation	OPEX	3.993995110556426
+2025	1	Electricity	Off Grid	percentage	Other	0.0
+2025	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.032959511877862085
+2025	2	LPG	LPG	Tariff	INCOME	4.115290010122566
+2025	2	LPG	Local	Processing	CAPEX	0.0036368055836959344
+2025	2	LPG	Local	Processing	OPEX	0.0007213001525017205
+2025	2	LPG	Local	Transport	CAPEX	0.016314111924551834
+2025	2	LPG	Local	Transport	OPEX	0.003425553478699568
+2025	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.2861151428571039
+2025	2	LPG	Upstream	Import	OPEX	2.68021066506014
+2025	2	LPG	Upstream	Processing	CAPEX	0.6993983610886279
+2025	2	LPG	Upstream	Processing	OPEX	0.17557092290054094
+2025	2	LPG	Upstream	Transport	CAPEX	0.3894868654133503
+2025	2	LPG	Upstream	Transport	OPEX	0.44020118202259256
+2025	3	Biogas	Subsides & Taxes	Appliances	OPEX	-0.011446748742030922
+2025	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.06284868514599783
+2025	4	Charcoal	Subsides & Taxes	Appliances	OPEX	-0.9154363065228308
+2025	4	Charcoal	Subsides & Taxes	Fuel	OPEX	31.626652616043284
+2025	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	-1.1668648569829494
+2025	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	69.715904964273
+2025	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	-0.7748577323672666
+2025	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2025	7	Pellets	Subsides & Taxes	Appliances	OPEX	-0.17095634851853853
+2025	7	Pellets	Subsides & Taxes	Fuel	OPEX	0.344360176492287
+2025	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	-0.9839809187051497
+2025	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2025	9	Ethanol	Subsides & Taxes	Appliances	OPEX	-0.3259529521441885
+2025	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2026	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	9.547851799236962
+2026	0	All_Fuels	Carbon_Economy	Emissions	OPEX	23.498648952705143
+2026	1	Electricity	E-TOTAL	Tariff	INCOME	232.826713697426
+2026	1	Electricity	E-cooking	Fraction of electricity	CAPEX	23.4720824323393
+2026	1	Electricity	E-cooking	Fraction of electricity	OPEX	0.8489821356755589
+2026	1	Electricity	E-cooking	Tariff	INCOME	5.793041160931638
+2026	1	Electricity	Grid	Distribution	CAPEX	8.446848904756887
+2026	1	Electricity	Grid	Distribution	OPEX	3.494787427128651
+2026	1	Electricity	Grid	Generation	CAPEX	62.25385236098289
+2026	1	Electricity	Grid	Generation	OPEX	16.08821384927595
+2026	1	Electricity	Off Grid	Distribution	CAPEX	0.271739632942674
+2026	1	Electricity	Off Grid	Distribution	OPEX	0.8976600384534245
+2026	1	Electricity	Off Grid	Generation	CAPEX	12.323233409043333
+2026	1	Electricity	Off Grid	Generation	OPEX	5.2220666530484685
+2026	1	Electricity	Off Grid	percentage	Other	0.0
+2026	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.05947041266639416
+2026	2	LPG	LPG	Tariff	INCOME	3.770301436050411
+2026	2	LPG	Local	Processing	CAPEX	0.004723006158186747
+2026	2	LPG	Local	Processing	OPEX	0.0009292235275562403
+2026	2	LPG	Local	Transport	CAPEX	0.023004649475392748
+2026	2	LPG	Local	Transport	OPEX	0.004400718978013994
+2026	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.20976199671602289
+2026	2	LPG	Upstream	Import	OPEX	2.5252098157774734
+2026	2	LPG	Upstream	Processing	CAPEX	0.9358375732747641
+2026	2	LPG	Upstream	Processing	OPEX	0.23488273731156192
+2026	2	LPG	Upstream	Transport	CAPEX	0.5255523139071169
+2026	2	LPG	Upstream	Transport	OPEX	0.5872981660419838
+2026	3	Biogas	Subsides & Taxes	Appliances	OPEX	-0.007379485475147335
+2026	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.10129316402831956
+2026	4	Charcoal	Subsides & Taxes	Appliances	OPEX	-0.4185182358586088
+2026	4	Charcoal	Subsides & Taxes	Fuel	OPEX	27.880364089414982
+2026	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	-0.5755299248285932
+2026	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	58.420767400528206
+2026	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	-0.5518997736231475
+2026	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2026	7	Pellets	Subsides & Taxes	Appliances	OPEX	-0.09473114622638511
+2026	7	Pellets	Subsides & Taxes	Fuel	OPEX	0.47658807167890715
+2026	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	-0.556911356749189
+2026	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2026	9	Ethanol	Subsides & Taxes	Appliances	OPEX	-0.18705013498763656
+2026	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2027	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	8.779908427079778
+2027	0	All_Fuels	Carbon_Economy	Emissions	OPEX	23.810380640619545
+2027	1	Electricity	E-TOTAL	Tariff	INCOME	250.02803243403756
+2027	1	Electricity	E-cooking	Fraction of electricity	CAPEX	23.237361608015902
+2027	1	Electricity	E-cooking	Fraction of electricity	OPEX	0.717454309669825
+2027	1	Electricity	E-cooking	Tariff	INCOME	7.492933207166106
+2027	1	Electricity	Grid	Distribution	CAPEX	8.362380415709318
+2027	1	Electricity	Grid	Distribution	OPEX	3.437859381194957
+2027	1	Electricity	Grid	Generation	CAPEX	61.631313837373064
+2027	1	Electricity	Grid	Generation	OPEX	18.24454112481976
+2027	1	Electricity	Off Grid	Distribution	CAPEX	0.26902223661324687
+2027	1	Electricity	Off Grid	Distribution	OPEX	0.8554588442555109
+2027	1	Electricity	Off Grid	Generation	CAPEX	12.200001074952898
+2027	1	Electricity	Off Grid	Generation	OPEX	6.770954136762585
+2027	1	Electricity	Off Grid	percentage	Other	0.0
+2027	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.0922337925814898
+2027	2	LPG	LPG	Tariff	INCOME	3.544905367293792
+2027	2	LPG	Local	Processing	CAPEX	0.00467577609660488
+2027	2	LPG	Local	Processing	OPEX	0.0009340289893569947
+2027	2	LPG	Local	Transport	CAPEX	0.023004649475392748
+2027	2	LPG	Local	Transport	OPEX	0.004422600142107617
+2027	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.19710188294246178
+2027	2	LPG	Upstream	Import	OPEX	2.5016797947416616
+2027	2	LPG	Upstream	Processing	CAPEX	0.9264791975420166
+2027	2	LPG	Upstream	Processing	OPEX	0.23569972107098616
+2027	2	LPG	Upstream	Transport	CAPEX	0.5255523139071169
+2027	2	LPG	Upstream	Transport	OPEX	0.5892431889127678
+2027	3	Biogas	Subsides & Taxes	Appliances	OPEX	-0.010080475462517589
+2027	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.13836781140732007
+2027	4	Charcoal	Subsides & Taxes	Appliances	OPEX	-0.4750569047253712
+2027	4	Charcoal	Subsides & Taxes	Fuel	OPEX	25.213348543326614
+2027	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	-0.6791804555777462
+2027	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	49.65487066661525
+2027	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	-0.7753759023921221
+2027	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2027	7	Pellets	Subsides & Taxes	Appliances	OPEX	-0.12020289402592979
+2027	7	Pellets	Subsides & Taxes	Fuel	OPEX	0.6045760419283253
+2027	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	-0.7026093610584728
+2027	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2027	9	Ethanol	Subsides & Taxes	Appliances	OPEX	-0.24416685368185626
+2027	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2028	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	8.011965054922593
+2028	0	All_Fuels	Carbon_Economy	Emissions	OPEX	24.122112328533948
+2028	1	Electricity	E-TOTAL	Tariff	INCOME	267.45876112399054
+2028	1	Electricity	E-cooking	Fraction of electricity	CAPEX	23.004987991935746
+2028	1	Electricity	E-cooking	Fraction of electricity	OPEX	0.5884721419706384
+2028	1	Electricity	E-cooking	Tariff	INCOME	9.216339883030972
+2028	1	Electricity	Grid	Distribution	CAPEX	8.278756611552225
+2028	1	Electricity	Grid	Distribution	OPEX	3.381720417437224
+2028	1	Electricity	Grid	Generation	CAPEX	61.01500069899933
+2028	1	Electricity	Grid	Generation	OPEX	20.356133033467778
+2028	1	Electricity	Off Grid	Distribution	CAPEX	0.26633201424711395
+2028	1	Electricity	Off Grid	Distribution	OPEX	0.8140119079377103
+2028	1	Electricity	Off Grid	Generation	CAPEX	12.07800106420337
+2028	1	Electricity	Off Grid	Generation	OPEX	8.288341664137114
+2028	1	Electricity	Off Grid	percentage	Other	0.0
+2028	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.12551758046881628
+2028	2	LPG	LPG	Tariff	INCOME	3.315661662145159
+2028	2	LPG	Local	Processing	CAPEX	0.004629018335638831
+2028	2	LPG	Local	Processing	OPEX	0.0009386454195689788
+2028	2	LPG	Local	Transport	CAPEX	0.023004649475392748
+2028	2	LPG	Local	Transport	OPEX	0.00444448130620124
+2028	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.18433713206676472
+2028	2	LPG	Upstream	Import	OPEX	2.4694837470628244
+2028	2	LPG	Upstream	Processing	CAPEX	0.9172144055665964
+2028	2	LPG	Upstream	Processing	OPEX	0.2364768768814908
+2028	2	LPG	Upstream	Transport	CAPEX	0.5255523139071169
+2028	2	LPG	Upstream	Transport	OPEX	0.5911882117835517
+2028	3	Biogas	Subsides & Taxes	Appliances	OPEX	-0.012818917714922745
+2028	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.17595654048458925
+2028	4	Charcoal	Subsides & Taxes	Appliances	OPEX	-0.5322589709620439
+2028	4	Charcoal	Subsides & Taxes	Fuel	OPEX	22.501876405199102
+2028	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	-0.7840540736185955
+2028	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	40.74498065584605
+2028	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	-1.001513876314474
+2028	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2028	7	Pellets	Subsides & Taxes	Appliances	OPEX	-0.1459768924778049
+2028	7	Pellets	Subsides & Taxes	Fuel	OPEX	0.7343324909457232
+2028	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	-0.8500356926106252
+2028	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2028	9	Ethanol	Subsides & Taxes	Appliances	OPEX	-0.3019622391955471
+2028	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2029	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	7.244021682765409
+2029	0	All_Fuels	Carbon_Economy	Emissions	OPEX	24.43384401644835
+2029	1	Electricity	E-TOTAL	Tariff	INCOME	285.12126864201355
+2029	1	Electricity	E-cooking	Fraction of electricity	CAPEX	22.774938112016386
+2029	1	Electricity	E-cooking	Fraction of electricity	OPEX	0.4619978721944683
+2029	1	Electricity	E-cooking	Tariff	INCOME	10.963507098630794
+2029	1	Electricity	Grid	Distribution	CAPEX	8.195969045436705
+2029	1	Electricity	Grid	Distribution	OPEX	3.3263604470165253
+2029	1	Electricity	Grid	Generation	CAPEX	60.40485069200933
+2029	1	Electricity	Grid	Generation	OPEX	22.42366864983034
+2029	1	Electricity	Off Grid	Distribution	CAPEX	0.26366869410464355
+2029	1	Electricity	Off Grid	Distribution	OPEX	0.7733083644618401
+2029	1	Electricity	Off Grid	Generation	CAPEX	11.957221053561334
+2029	1	Electricity	Off Grid	Generation	OPEX	9.774704345550475
+2029	1	Electricity	Off Grid	percentage	Other	0.0
+2029	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.15932800599961477
+2029	2	LPG	LPG	Tariff	INCOME	3.0825231837706424
+2029	2	LPG	Local	Processing	CAPEX	0.004582728152282442
+2029	2	LPG	Local	Processing	OPEX	0.0009430761182777872
+2029	2	LPG	Local	Transport	CAPEX	0.023004649475392748
+2029	2	LPG	Local	Transport	OPEX	0.004466362470294863
+2029	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.171467109553935
+2029	2	LPG	Upstream	Import	OPEX	2.4278138951292494
+2029	2	LPG	Upstream	Processing	CAPEX	0.9080422615109305
+2029	2	LPG	Upstream	Processing	OPEX	0.2372149196036782
+2029	2	LPG	Upstream	Transport	CAPEX	0.5255523139071169
+2029	2	LPG	Upstream	Transport	OPEX	0.5931332346543357
+2029	3	Biogas	Subsides & Taxes	Appliances	OPEX	-0.015595204215563908
+2029	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.21406473174618118
+2029	4	Charcoal	Subsides & Taxes	Appliances	OPEX	-0.5901303599449865
+2029	4	Charcoal	Subsides & Taxes	Fuel	OPEX	19.74540705855478
+2029	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	-0.8901617245795339
+2029	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	31.68935449318188
+2029	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	-1.230337592391408
+2029	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2029	7	Pellets	Subsides & Taxes	Appliances	OPEX	-0.17205585160691755
+2029	7	Pellets	Subsides & Taxes	Fuel	OPEX	0.8658759060233099
+2029	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	-0.9992058462044051
+2029	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2029	9	Ethanol	Subsides & Taxes	Appliances	OPEX	-0.3604423793286696
+2029	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2030	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	6.627752499609502
+2030	0	All_Fuels	Carbon_Economy	Emissions	OPEX	25.00776527355064
+2030	1	Electricity	E-TOTAL	Tariff	INCOME	335.9607890154335
+2030	1	Electricity	E-cooking	Fraction of electricity	CAPEX	36.029055601326256
+2030	1	Electricity	E-cooking	Fraction of electricity	OPEX	1.5787361221993153
+2030	1	Electricity	E-cooking	Tariff	INCOME	12.444678933455371
+2030	1	Electricity	Grid	Distribution	CAPEX	21.541774690091156
+2030	1	Electricity	Grid	Distribution	OPEX	3.519381944784983
+2030	1	Electricity	Grid	Generation	CAPEX	97.53741318728386
+2030	1	Electricity	Grid	Generation	OPEX	26.33591422093692
+2030	1	Electricity	Off Grid	Distribution	CAPEX	7.223081736973686
+2030	1	Electricity	Off Grid	Distribution	OPEX	0.8506135078285659
+2030	1	Electricity	Off Grid	Generation	CAPEX	25.590326684628433
+2030	1	Electricity	Off Grid	Generation	OPEX	12.639181092897969
+2030	1	Electricity	Off Grid	percentage	Other	0.0
+2030	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.16550379263708015
+2030	2	LPG	LPG	Tariff	INCOME	2.902658396656628
+2030	2	LPG	Local	Processing	CAPEX	0.008348727311951343
+2030	2	LPG	Local	Processing	OPEX	0.001216711854589833
+2030	2	LPG	Local	Transport	CAPEX	0.038829932749358545
+2030	2	LPG	Local	Transport	OPEX	0.005763849560153901
+2030	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.1414233861420448
+2030	2	LPG	Upstream	Import	OPEX	2.388071206571281
+2030	2	LPG	Upstream	Processing	CAPEX	1.660109012650487
+2030	2	LPG	Upstream	Processing	OPEX	0.3052146781995142
+2030	2	LPG	Upstream	Transport	CAPEX	0.9700753945605017
+2030	2	LPG	Upstream	Transport	OPEX	0.7633332803377768
+2030	3	Biogas	Subsides & Taxes	Appliances	OPEX	-0.008850643954232044
+2030	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.24447674910325862
+2030	4	Charcoal	Subsides & Taxes	Appliances	OPEX	-0.31697774603326007
+2030	4	Charcoal	Subsides & Taxes	Fuel	OPEX	17.46366063402154
+2030	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	-0.48525988110754414
+2030	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	24.512950455205395
+2030	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	-0.7018235654433747
+2030	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2030	7	Pellets	Subsides & Taxes	Appliances	OPEX	-0.09590358203291935
+2030	7	Pellets	Subsides & Taxes	Fuel	OPEX	0.9718437205676654
+2030	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	-0.5560909423741155
+2030	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2030	9	Ethanol	Subsides & Taxes	Appliances	OPEX	-0.20236690462364085
+2030	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2031	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	6.548704961618464
+2031	0	All_Fuels	Carbon_Economy	Emissions	OPEX	25.960852029616312
+2031	1	Electricity	E-TOTAL	Tariff	INCOME	400.2044108700999
+2031	1	Electricity	E-cooking	Fraction of electricity	CAPEX	61.83952246865212
+2031	1	Electricity	E-cooking	Fraction of electricity	OPEX	2.189072341346648
+2031	1	Electricity	E-cooking	Tariff	INCOME	14.872224953293689
+2031	1	Electricity	Grid	Distribution	CAPEX	20.729408484314888
+2031	1	Electricity	Grid	Distribution	OPEX	3.6513334671642657
+2031	1	Electricity	Grid	Generation	CAPEX	161.84935469557098
+2031	1	Electricity	Grid	Generation	OPEX	31.951674842578473
+2031	1	Electricity	Off Grid	Distribution	CAPEX	9.308137708693831
+2031	1	Electricity	Off Grid	Distribution	OPEX	0.9191649970663462
+2031	1	Electricity	Off Grid	Generation	CAPEX	43.313458426735465
+2031	1	Electricity	Off Grid	Generation	OPEX	14.724029118723724
+2031	1	Electricity	Off Grid	percentage	Other	0.0
+2031	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.18201871347075893
+2031	2	LPG	LPG	Tariff	INCOME	3.130450056654058
+2031	2	LPG	Local	Processing	CAPEX	0.012707376915343224
+2031	2	LPG	Local	Processing	OPEX	0.0015086333837735332
+2031	2	LPG	Local	Transport	CAPEX	0.057364672447494956
+2031	2	LPG	Local	Transport	OPEX	0.0071446199601037964
+2031	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.13077692770859548
+2031	2	LPG	Upstream	Import	OPEX	2.698353830207599
+2031	2	LPG	Upstream	Processing	CAPEX	2.6700920828012924
+2031	2	LPG	Upstream	Processing	OPEX	0.3835009631295204
+2031	2	LPG	Upstream	Transport	CAPEX	1.5753904034717556
+2031	2	LPG	Upstream	Transport	OPEX	0.9586176128432928
+2031	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.0
+2031	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.2693154108152307
+2031	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2031	4	Charcoal	Subsides & Taxes	Fuel	OPEX	17.17085047539098
+2031	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2031	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	23.59859235746216
+2031	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2031	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2031	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2031	7	Pellets	Subsides & Taxes	Fuel	OPEX	1.072144504282242
+2031	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2031	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2031	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2031	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2032	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	6.497057116347769
+2032	0	All_Fuels	Carbon_Economy	Emissions	OPEX	26.778137716148564
+2032	1	Electricity	E-TOTAL	Tariff	INCOME	436.3354897570315
+2032	1	Electricity	E-cooking	Fraction of electricity	CAPEX	61.2211272439656
+2032	1	Electricity	E-cooking	Fraction of electricity	OPEX	1.4025551738683144
+2032	1	Electricity	E-cooking	Tariff	INCOME	17.936024426657788
+2032	1	Electricity	Grid	Distribution	CAPEX	20.52211439947174
+2032	1	Electricity	Grid	Distribution	OPEX	3.5171452530798364
+2032	1	Electricity	Grid	Generation	CAPEX	160.23086114861528
+2032	1	Electricity	Grid	Generation	OPEX	36.18021764963542
+2032	1	Electricity	Off Grid	Distribution	CAPEX	9.215056331606892
+2032	1	Electricity	Off Grid	Distribution	OPEX	0.8681845845934277
+2032	1	Electricity	Off Grid	Generation	CAPEX	42.880323842468115
+2032	1	Electricity	Off Grid	Generation	OPEX	15.137149486475542
+2032	1	Electricity	Off Grid	percentage	Other	0.0
+2032	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.23069073983054578
+2032	2	LPG	LPG	Tariff	INCOME	3.4415128846558094
+2032	2	LPG	Local	Processing	CAPEX	0.01258030314618979
+2032	2	LPG	Local	Processing	OPEX	0.0015366909509380716
+2032	2	LPG	Local	Transport	CAPEX	0.057364672447494956
+2032	2	LPG	Local	Transport	OPEX	0.007277545537651893
+2032	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.14376614466653115
+2032	2	LPG	Upstream	Import	OPEX	3.144585087643887
+2032	2	LPG	Upstream	Processing	CAPEX	2.643391161973279
+2032	2	LPG	Upstream	Processing	OPEX	0.39765080564357835
+2032	2	LPG	Upstream	Transport	CAPEX	1.5753904034717556
+2032	2	LPG	Upstream	Transport	OPEX	0.9940083514768435
+2032	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.0
+2032	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.30078220680445533
+2032	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2032	4	Charcoal	Subsides & Taxes	Fuel	OPEX	17.025580588126004
+2032	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2032	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	22.75728902438094
+2032	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2032	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2032	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2032	7	Pellets	Subsides & Taxes	Fuel	OPEX	1.1990585353519967
+2032	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2032	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2032	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2032	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2033	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	6.447326290242826
+2033	0	All_Fuels	Carbon_Economy	Emissions	OPEX	27.444080695491287
+2033	1	Electricity	E-TOTAL	Tariff	INCOME	465.50504028368175
+2033	1	Electricity	E-cooking	Fraction of electricity	CAPEX	70.67052280974839
+2033	1	Electricity	E-cooking	Fraction of electricity	OPEX	0.8299909234693696
+2033	1	Electricity	E-cooking	Tariff	INCOME	20.32730937670045
+2033	1	Electricity	Grid	Distribution	CAPEX	-25.58250323273166
+2033	1	Electricity	Grid	Distribution	OPEX	3.402544009009076
+2033	1	Electricity	Grid	Generation	CAPEX	189.68732800758568
+2033	1	Electricity	Grid	Generation	OPEX	39.304524901271364
+2033	1	Electricity	Off Grid	Distribution	CAPEX	-5.236031359662526
+2033	1	Electricity	Off Grid	Distribution	OPEX	0.8336365107324445
+2033	1	Electricity	Off Grid	Generation	CAPEX	46.937591586663004
+2033	1	Electricity	Off Grid	Generation	OPEX	15.453646114361291
+2033	1	Electricity	Off Grid	percentage	Other	0.0
+2033	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.22366020566665434
+2033	2	LPG	LPG	Tariff	INCOME	3.694252887585537
+2033	2	LPG	Local	Processing	CAPEX	0.005640747921451018
+2033	2	LPG	Local	Processing	OPEX	0.0016094944051232942
+2033	2	LPG	Local	Transport	CAPEX	0.029688967670333258
+2033	2	LPG	Local	Transport	OPEX	0.0076245526695944005
+2033	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.12843463368771088
+2033	2	LPG	Upstream	Import	OPEX	3.5184052710071345
+2033	2	LPG	Upstream	Processing	CAPEX	1.3904016210362125
+2033	2	LPG	Upstream	Processing	OPEX	0.4262360051559918
+2033	2	LPG	Upstream	Transport	CAPEX	0.837999362806614
+2033	2	LPG	Upstream	Transport	OPEX	1.066004197219866
+2033	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.01178491527986092
+2033	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.324088016535806
+2033	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2033	4	Charcoal	Subsides & Taxes	Fuel	OPEX	16.867765629539534
+2033	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2033	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	22.060235272639602
+2033	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2033	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2033	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2033	7	Pellets	Subsides & Taxes	Fuel	OPEX	1.3017440111055723
+2033	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2033	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2033	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2033	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2034	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	6.584496244578522
+2034	0	All_Fuels	Carbon_Economy	Emissions	OPEX	28.01471002215887
+2034	1	Electricity	E-TOTAL	Tariff	INCOME	501.6852270929087
+2034	1	Electricity	E-cooking	Fraction of electricity	CAPEX	62.73029933318066
+2034	1	Electricity	E-cooking	Fraction of electricity	OPEX	-3.0164236857334417
+2034	1	Electricity	E-cooking	Tariff	INCOME	22.8096182297783
+2034	1	Electricity	Grid	Distribution	CAPEX	-22.481247653122225
+2034	1	Electricity	Grid	Distribution	OPEX	3.2340116755828507
+2034	1	Electricity	Grid	Generation	CAPEX	174.5592583344171
+2034	1	Electricity	Grid	Generation	OPEX	43.73704075674328
+2034	1	Electricity	Off Grid	Distribution	CAPEX	-3.8510477986444878
+2034	1	Electricity	Off Grid	Distribution	OPEX	0.7979406384389764
+2034	1	Electricity	Off Grid	Generation	CAPEX	45.18477306763212
+2034	1	Electricity	Off Grid	Generation	OPEX	15.339556505252796
+2034	1	Electricity	Off Grid	percentage	Other	0.0
+2034	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.19815875584177423
+2034	2	LPG	LPG	Tariff	INCOME	4.0364311160421185
+2034	2	LPG	Local	Processing	CAPEX	0.004707748292857946
+2034	2	LPG	Local	Processing	OPEX	0.0016709204342423216
+2034	2	LPG	Local	Transport	CAPEX	0.02652942231354584
+2034	2	LPG	Local	Transport	OPEX	0.007912897868613652
+2034	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.11249112248732814
+2034	2	LPG	Upstream	Import	OPEX	4.021787266672861
+2034	2	LPG	Upstream	Processing	CAPEX	1.079663220912673
+2034	2	LPG	Upstream	Processing	OPEX	0.44772485091966086
+2034	2	LPG	Upstream	Transport	CAPEX	0.6573548807386183
+2034	2	LPG	Upstream	Transport	OPEX	1.1192970029026676
+2034	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.024802370445295825
+2034	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.3404452229450773
+2034	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2034	4	Charcoal	Subsides & Taxes	Fuel	OPEX	17.602870548014966
+2034	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2034	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	22.683122627744666
+2034	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2034	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2034	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2034	7	Pellets	Subsides & Taxes	Fuel	OPEX	1.419887711403807
+2034	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2034	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2034	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2034	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2035	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	6.782049439895344
+2035	0	All_Fuels	Carbon_Economy	Emissions	OPEX	28.7049108384576
+2035	1	Electricity	E-TOTAL	Tariff	INCOME	548.0846430333945
+2035	1	Electricity	E-cooking	Fraction of electricity	CAPEX	62.10299633984885
+2035	1	Electricity	E-cooking	Fraction of electricity	OPEX	-8.069531177536694
+2035	1	Electricity	E-cooking	Tariff	INCOME	26.066606130591744
+2035	1	Electricity	Grid	Distribution	CAPEX	-22.256435176591005
+2035	1	Electricity	Grid	Distribution	OPEX	3.0329718738759786
+2035	1	Electricity	Grid	Generation	CAPEX	172.81366575107293
+2035	1	Electricity	Grid	Generation	OPEX	49.53495892101094
+2035	1	Electricity	Off Grid	Distribution	CAPEX	-3.8125373206580426
+2035	1	Electricity	Off Grid	Distribution	OPEX	0.746996977299966
+2035	1	Electricity	Off Grid	Generation	CAPEX	44.7329253369558
+2035	1	Electricity	Off Grid	Generation	OPEX	15.171962866308702
+2035	1	Electricity	Off Grid	percentage	Other	0.0
+2035	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.223160666089857
+2035	2	LPG	LPG	Tariff	INCOME	4.476311367658695
+2035	2	LPG	Local	Processing	CAPEX	0.004660670809929365
+2035	2	LPG	Local	Processing	OPEX	0.001682870040462391
+2035	2	LPG	Local	Transport	CAPEX	0.02652942231354584
+2035	2	LPG	Local	Transport	OPEX	0.007967607535597408
+2035	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.12482946352485302
+2035	2	LPG	Upstream	Import	OPEX	4.718860285182025
+2035	2	LPG	Upstream	Processing	CAPEX	1.0688665887035464
+2035	2	LPG	Upstream	Processing	OPEX	0.45203383244457945
+2035	2	LPG	Upstream	Transport	CAPEX	0.6573548807386183
+2035	2	LPG	Upstream	Transport	OPEX	1.1297503547892571
+2035	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.026463965139443973
+2035	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.36325280004103616
+2035	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2035	4	Charcoal	Subsides & Taxes	Fuel	OPEX	18.658312898958517
+2035	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2035	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	23.60019148724159
+2035	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2035	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2035	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2035	7	Pellets	Subsides & Taxes	Fuel	OPEX	1.5705319598639587
+2035	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2035	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2035	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2035	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2036	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	6.979602635212167
+2036	0	All_Fuels	Carbon_Economy	Emissions	OPEX	29.39511165475633
+2036	1	Electricity	E-TOTAL	Tariff	INCOME	595.1090682209194
+2036	1	Electricity	E-cooking	Fraction of electricity	CAPEX	61.48196637645036
+2036	1	Electricity	E-cooking	Fraction of electricity	OPEX	-13.021274877135308
+2036	1	Electricity	E-cooking	Tariff	INCOME	29.368074190723313
+2036	1	Electricity	Grid	Distribution	CAPEX	-22.033870824825094
+2036	1	Electricity	Grid	Distribution	OPEX	2.8356294670356856
+2036	1	Electricity	Grid	Generation	CAPEX	171.08552909356223
+2036	1	Electricity	Grid	Generation	OPEX	55.21254501791756
+2036	1	Electricity	Off Grid	Distribution	CAPEX	-3.774411947451462
+2036	1	Electricity	Off Grid	Distribution	OPEX	0.6969923953198918
+2036	1	Electricity	Off Grid	Generation	CAPEX	44.28559608358625
+2036	1	Electricity	Off Grid	Generation	OPEX	15.006187144492968
+2036	1	Electricity	Off Grid	percentage	Other	0.0
+2036	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.24854992474153523
+2036	2	LPG	LPG	Tariff	INCOME	4.922971371709712
+2036	2	LPG	Local	Processing	CAPEX	0.0046140641018300715
+2036	2	LPG	Local	Processing	OPEX	0.0016944135625146346
+2036	2	LPG	Local	Transport	CAPEX	0.02652942231354584
+2036	2	LPG	Local	Transport	OPEX	0.008022317202581165
+2036	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.13726471143271834
+2036	2	LPG	Upstream	Import	OPEX	5.475586137375424
+2036	2	LPG	Upstream	Processing	CAPEX	1.058177922816511
+2036	2	LPG	Upstream	Processing	OPEX	0.45621186185390766
+2036	2	LPG	Upstream	Transport	CAPEX	0.6573548807386183
+2036	2	LPG	Upstream	Transport	OPEX	1.1402037066758466
+2036	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.028147606843158368
+2036	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.3863630014004142
+2036	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2036	4	Charcoal	Subsides & Taxes	Fuel	OPEX	19.729515743802093
+2036	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2036	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	24.530481728642297
+2036	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2036	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2036	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2036	7	Pellets	Subsides & Taxes	Fuel	OPEX	1.7232156533046936
+2036	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2036	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2036	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2036	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2037	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	7.1771558305289895
+2037	0	All_Fuels	Carbon_Economy	Emissions	OPEX	30.08531247105506
+2037	1	Electricity	E-TOTAL	Tariff	INCOME	642.7649792135612
+2037	1	Electricity	E-cooking	Fraction of electricity	CAPEX	60.867146712685866
+2037	1	Electricity	E-cooking	Fraction of electricity	OPEX	-17.873176749624193
+2037	1	Electricity	E-cooking	Tariff	INCOME	32.71448553999632
+2037	1	Electricity	Grid	Distribution	CAPEX	-21.81353211657684
+2037	1	Electricity	Grid	Distribution	OPEX	2.6419306111448106
+2037	1	Electricity	Grid	Generation	CAPEX	169.3746738026266
+2037	1	Electricity	Grid	Generation	OPEX	60.77162589699397
+2037	1	Electricity	Off Grid	Distribution	CAPEX	-3.736667827976948
+2037	1	Electricity	Off Grid	Distribution	OPEX	0.647913205281689
+2037	1	Electricity	Off Grid	Generation	CAPEX	43.842740122750385
+2037	1	Electricity	Off Grid	Generation	OPEX	14.842209740826913
+2037	1	Electricity	Off Grid	percentage	Other	0.0
+2037	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.2743311292490106
+2037	2	LPG	LPG	Tariff	INCOME	5.376491451898014
+2037	2	LPG	Local	Processing	CAPEX	0.004567923460811771
+2037	2	LPG	Local	Processing	OPEX	0.0017055579271217872
+2037	2	LPG	Local	Transport	CAPEX	0.02652942231354584
+2037	2	LPG	Local	Transport	OPEX	0.008077026869564921
+2037	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.14979744405243017
+2037	2	LPG	Upstream	Import	OPEX	6.296187424075207
+2037	2	LPG	Upstream	Processing	CAPEX	1.047596143588346
+2037	2	LPG	Upstream	Processing	OPEX	0.4602611272918049
+2037	2	LPG	Upstream	Transport	CAPEX	0.6573548807386183
+2037	2	LPG	Upstream	Transport	OPEX	1.150657058562436
+2037	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.029853522796432934
+2037	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.4097789461916214
+2037	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2037	4	Charcoal	Subsides & Taxes	Fuel	OPEX	20.81666370213763
+2037	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2037	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	25.474146201650225
+2037	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2037	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2037	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2037	7	Pellets	Subsides & Taxes	Fuel	OPEX	1.8779599623875654
+2037	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2037	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2037	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2037	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0
+2038	0	All_Fuels	Carbon_Economy	Deforestation	OPEX	3.6626603635083033
+2038	0	All_Fuels	Carbon_Economy	Emissions	OPEX	15.301481541639555
+2038	1	Electricity	E-TOTAL	Tariff	INCOME	339.452581243291
+2038	1	Electricity	E-cooking	Fraction of electricity	CAPEX	30.18587672460669
+2038	1	Electricity	E-cooking	Fraction of electricity	OPEX	-10.72526216671231
+2038	1	Electricity	E-cooking	Tariff	INCOME	17.626319499383072
+2038	1	Electricity	Grid	Distribution	CAPEX	-10.824828464449588
+2038	1	Electricity	Grid	Distribution	OPEX	1.2494522955414507
+2038	1	Electricity	Grid	Generation	CAPEX	84.05111929315811
+2038	1	Electricity	Grid	Generation	OPEX	32.43392889019897
+2038	1	Electricity	Off Grid	Distribution	CAPEX	-1.8542979674410216
+2038	1	Electricity	Off Grid	Distribution	OPEX	0.30583739306236624
+2038	1	Electricity	Off Grid	Generation	CAPEX	21.756684736056904
+2038	1	Electricity	Off Grid	Generation	OPEX	7.360170011136773
+2038	1	Electricity	Off Grid	percentage	Other	0.0
+2038	1	Electricity	Subsides & Taxes	Appliances	OPEX	-0.14695726850236446
+2038	2	LPG	LPG	Tariff	INCOME	2.8604817026449547
+2038	2	LPG	Local	Processing	CAPEX	0.0022668033603070585
+2038	2	LPG	Local	Processing	OPEX	0.0008568352334877182
+2038	2	LPG	Local	Transport	CAPEX	0.01326471115677292
+2038	2	LPG	Local	Transport	OPEX	0.00405902955990137
+2038	2	LPG	Subsides & Taxes	Appliances	OPEX	-0.07962911949033645
+2038	2	LPG	Upstream	Import	OPEX	3.4770017609896375
+2038	2	LPG	Upstream	Processing	CAPEX	0.5198630141032987
+2038	2	LPG	Upstream	Processing	OPEX	0.23160939020947555
+2038	2	LPG	Upstream	Transport	CAPEX	0.3286774403693091
+2038	2	LPG	Upstream	Transport	OPEX	0.5792485362386891
+2038	3	Biogas	Subsides & Taxes	Appliances	OPEX	0.015573503236300466
+2038	3	Biogas	Subsides & Taxes	Fuel	OPEX	0.21376685720472255
+2038	4	Charcoal	Subsides & Taxes	Appliances	OPEX	0.0
+2038	4	Charcoal	Subsides & Taxes	Fuel	OPEX	10.821046143647257
+2038	5	Com-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2038	5	Com-Firewood	Subsides & Taxes	Fuel	OPEX	13.095168913706537
+2038	6	Free-Biomass	Subsides & Taxes	Appliances	OPEX	0.0
+2038	6	Free-Biomass	Subsides & Taxes	Fuel	OPEX	0.0
+2038	7	Pellets	Subsides & Taxes	Appliances	OPEX	0.0
+2038	7	Pellets	Subsides & Taxes	Fuel	OPEX	0.9976588766524348
+2038	8	Free-Firewood	Subsides & Taxes	Appliances	OPEX	0.0
+2038	8	Free-Firewood	Subsides & Taxes	Fuel	OPEX	0.0
+2038	9	Ethanol	Subsides & Taxes	Appliances	OPEX	0.0
+2038	9	Ethanol	Subsides & Taxes	Fuel	OPEX	0.0

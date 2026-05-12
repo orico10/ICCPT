@@ -1,0 +1,14 @@
+Appliance_id	Appl_name	Device_cost	Transportation	Cost_emissions	Retail_price	Lifetime	Efficiency	Health	Time_gender	Emissions
+1	Electric_0	0	0.08	0.08	30	7300	1	0	0.0167	0
+2	Electric_1	0	0.085	0.085	57.25	7300	1.4	0	0.0167	0
+3	Electric_2	0	0.098	0.098	87	7300	1.9	0	0.0167	0
+4	LPG	0	0.08	0.08	68	5475	1.04	0.1191	0.05	0.0792
+5	Biogas	0	0.08	0.08	68	5475	1.04	0.5628	0.05	0.1689
+6	Charcoal_0	0	0	0	0	1	0.21	0.7624	1	1.7235
+7	Charcoal_1	0	0.15	0.15	25	1825	0.36	0.716	0.8333	1.1646
+8	Charcoal_2	0	0.15	0.15	50	3650	0.5	0.4432	0.6667	0.8385
+9	Firewood-Bio_0	0	0	0	0	1	0.12	1	1	4.5302
+10	Firewood-Bio_1	0	0.15	0.15	20	1825	0.24	0.9253	0.8333	2.2437
+11	Firewood-Bio_2	0	0.15	0.15	40	3650	0.36	0.8489	0.6667	1.4459
+12	Pellets	0	0	0.15	72	5475	0.8	0.661	0.3333	0.37
+13	Ethanol	0	0.08	0.08	40	5475	0.9	0.39	0.05	0.147

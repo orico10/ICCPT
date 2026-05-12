@@ -1,0 +1,168 @@
+logs:
+  level: "INFO"                                   # Log levels: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(levelname)s - %(message)s"  # Logs format  
+ 
+interactive_mode: true                        # Interactive mode = true, Cold-Run Exe offline mode = false
+simulation_planCombined: 1         # Id of the combined plan to simulate
+simulation_growthScenario: 1       # Id of the growth scenario to simulate
+
+base_scenario:
+  PricePlan_id: 10  # 👈 P0: plan neutro del estado base
+  DepPlan_id: 10
+  year: 2023 
+  state_id: 0
+
+
+crs_system:
+  latlon_epsg: "EPSG:4326"          # WGS84 for lat/lon conversion
+  utm_epsg: 32735                          # UTM for region (number format)
+ 
+# URLs for downloading shapefiles for GeoJSON files
+url_geoinfo: "https://download.geofabrik.de/africa/rwanda-latest-free.shp.zip"
+ 
+path:
+  general_config: "./data/Co0_general_config.tsv"   # General configuration file.
+  routes_config: "./data/Co0_routes_config.tsv"     # File routes and file names.
+  inputs: "./data/inputs"                           # Input files
+  output: "./data/outputs"                          # Output files  
+  summary_results: "./data/summary_results"  # Summary results folder
+  offline_data_files: "./data/offline_data_files"  # Offline preprocess folder for offline mode
+  preprocess:                                       # Preprocess data files of the generated demand areas
+    input_data: "./data/preprocess/in"                                # Input directory
+    geo_info: "./data/preprocess/in/buildings/geo"                    # Folder for building geolocation (GeoJSON format)
+    type_info: "./data/preprocess/in/buildings/type"                  # Folder for building type (CSV format)
+    fuel_area: "./data/preprocess/in/buildings/area"                  # Folder for building in fuel area (TXT format)
+    region: "./data/preprocess/in/region"                             # Folder for regional geography (SHP format)
+    multiple: "./data/preprocess/in/multiple"                         # Folder for building aggregation (SHP format)
+    raw_data: "./data/preprocess/in/raw"                              # Folder for raw data
+    output_data: "./data/preprocess/out"                              # Output directory
+    out_pre: "./data/preprocess/out/pre"                              # Folder for preprocessed output data
+    out_post: "./data/preprocess/out/post"                            # Folder for postprocessed output data
+ 
+  logs:
+    general: "./logs/app.txt"                     # General log file
+    errors: "./logs/error.log"                    # Error log file
+  reports: "./reports/report.html"                 # Report html file 
+ 
+  tmp: "./data/tmp/"                              # Temporary files
+ 
+defaults:
+  type: 21                                       # default building type, e.g. residential
+  aggregated: 20                                       # default aggregated building type
+  social: 3                                       # default social category, e.g. low income
+  num_social: 5                                       # number of social categories
+  residential_clusters: ["S","M","L","XL"]                                       # residential social clusters
+  fuel_names: ["elec","lpg"]                                       # names of fuel areas
+ 
+main_region_label: "District"
+social_region_label: "Sector"
+pue_region_label: "Village"
+ 
+file_names:
+  geojson: "{region}_landuse.geojson"                                       # names for GeoJSON files
+  place_csv: "{region}_{bdg_type}.csv"                                       # building type CSV filename from Google Places
+  nep_csv: "{region}_nep.csv"                                       # building type CSV filename from national electrification plan
+  pue_csv: "{region}_pue.csv"                                       # building type CSV filename from productive use of electricity
+  social_csv: "{region}_asset.csv"                                       # social percentage CSV filename by social region
+  main_region: "district.shp"                                       # filename for main region shapefile
+  social_region: "sector.shp"                                       # filename for social cluster region shapefile
+  pue_region: "sector.shp"                                       # filename for productive use of electricity region shapefile
+  multiple:
+    multi1: refugee_camp.shp
+  landuse:
+    tiff1: 35M.tiff
+    tiff2: 36M.tiff
+ 
+regions:
+  - Nyarugenge
+  - Gasabo
+  - Kicukiro
+  - Nyanza
+  - Gisagara
+  - Nyaruguru
+  - Huye
+  - Nyamagabe
+  - Ruhango
+  - Muhanga
+  - Kamonyi
+  - Karongi
+  - Rutsiro
+  - Rubavu
+  - Nyabihu
+  - Ngororero
+  - Rusizi
+  - Nyamasheke
+  - Rulindo
+  - Gakenke
+  - Musanze
+  - Burera
+  - Gicumbi
+  - Rwamagana
+  - Nyagatare
+  - Gatsibo
+  - Kayonza
+  - Kirehe
+  - Ngoma
+  - Bugesera
+ 
+bdg_type:
+  - 1  # residential_S
+  - 2  # residential_M
+  - 3  # residential_L
+  - 4  # residential_XL
+  - 5  # commercial_S
+  - 6  # commercial_L
+  - 7  # hotel
+  - 8  # commercial-CC
+  - 9  # industry_S-CC
+  - 10  # industry_L-CC
+  - 11  # industry
+  - 12  # education_S
+  - 13  # education_L
+  - 14  # restaurant_S
+  - 15  # restaurant_M
+  - 16  # restaurant_L
+  - 17  # hospital
+  - 18  # office
+  - 19  # airport
+  - 20  # residential_GR
+ 
+bdg_type_social:
+  - 1: 3
+  - 2: 4
+  - 3: 5
+  - 4: 5
+  - 5: 2
+  - 6: 2
+  - 7: 2
+  - 8: 2
+  - 9: 2
+  - 10: 2
+  - 11: 2
+  - 12: 1
+  - 13: 1
+  - 14: 2
+  - 15: 2
+  - 16: 2
+  - 17: 1
+  - 18: 1
+  - 19: 1
+  - 20: 1
+ 
+landuse:
+  classes:
+    1: Water
+    2: Trees
+    4: FloodedVeg
+    5: Crops
+    7: BuiltArea
+    8: BareGround
+    9: Snow/Ice
+    10: Clouds
+    11: Rangeland
+  radius: 200
+  main_classes:
+    2: Trees
+    5: Crops
+    7: BuiltArea
+    11: Rangeland

@@ -1,0 +1,84 @@
+# ------------------------------------------------------------------------------
+# Normalización de finales de línea
+# ------------------------------------------------------------------------------
+# Configura la normalización automática de los finales de línea para evitar
+# problemas entre diferentes sistemas operativos (Windows, macOS, Linux).
+* text=auto
+
+# ------------------------------------------------------------------------------
+# Archivos binarios (sin normalización de finales de línea)
+# ------------------------------------------------------------------------------
+# Archivos binarios comunes
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.rar binary
+*.exe binary
+*.dll binary
+*.so binary
+
+# Documentos y formatos de Microsoft Office
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.xls binary
+*.xlsx binary
+
+# ------------------------------------------------------------------------------
+# Git LFS (Large File Storage)
+# ------------------------------------------------------------------------------
+# Si utilizas Git LFS para archivos grandes, define aquí los formatos que deben
+# ser gestionados por LFS.
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.ai filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+
+# ------------------------------------------------------------------------------
+# Específicos de Python
+# ------------------------------------------------------------------------------
+# Archivos compilados de Python
+*.pyc binary
+*.pyo binary
+
+# ------------------------------------------------------------------------------
+# Archivos específicos de macOS
+# ------------------------------------------------------------------------------
+# Evitar problemas con archivos creados por macOS
+*.DS_Store text eol=lf
+.AppleDouble binary
+
+# ------------------------------------------------------------------------------
+# Archivos específicos de Windows
+# ------------------------------------------------------------------------------
+# Archivos de caché de miniaturas
+Thumbs.db binary
+
+# ------------------------------------------------------------------------------
+# Archivos específicos de herramientas
+# ------------------------------------------------------------------------------
+# Archivos generados por Jupyter Notebook
+*.ipynb text
+
+# Archivos de configuración de VSCode
+.vscode/* text
+
+# Archivos generados por Sphinx
+docs/_build/* binary
+
+# ------------------------------------------------------------------------------
+# Archivos temporales y logs
+# ------------------------------------------------------------------------------
+# Logs
+*.log text
+*.tmp text
+

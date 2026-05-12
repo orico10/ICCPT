@@ -1,0 +1,7 @@
+RawMat_id	RawMat_name	Cost	Emissions
+1	Electricity	0.13	0.2
+2	LPG	0.786	1.5
+3	Wood	0.05	0.05
+4	Ethanol	0.03	0.03
+5	Livestock-Waste	0.04	0.04
+6	Crops-Waste	0.507	1.201

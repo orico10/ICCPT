@@ -1,0 +1,3 @@
+GrowthPat_Id	GrowthPat_Name	Fuel_id	Process	Transport  	 Molecule
+1	General	1	-0.01	-0.01	0
+1	General	2	-0.01	0	0.05

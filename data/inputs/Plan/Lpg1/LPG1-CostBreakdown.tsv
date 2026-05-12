@@ -1,0 +1,9 @@
+Data	Upstream	Local
+OPEX_fraction_FIX	0.1623	0.1289
+Transport_fraction_FIX	0.4657	0.8257
+Transport_fraction_VAR	0.1178	0.7951
+Process_fraction_FIX	0.5343	0.1743
+Process_fraction_VAR	0.8822	0.205
+Discount_rate	0.1	0.1
+Lifetime_transport	15	10
+Lifetime_process	15	15

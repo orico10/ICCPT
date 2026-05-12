@@ -1,0 +1,8 @@
+State_ID	Year	Health	Ti_gender	Emissions	Deforestation	Semester
+0	2025	1.0	1.0	1.0	1.0	first
+1	2025	1.0	1.035	1.006	0.959	second
+10	2030	1.108	1.463	1.066	0.632	first
+11	2030	1.109	1.473	1.096	0.624	second
+20	2033	1.202	1.632	1.184	0.612	first
+21	2033	1.202	1.633	1.189	0.61	second
+30	2038	1.38	1.809	1.323	0.694	first

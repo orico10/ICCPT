@@ -1,0 +1,119 @@
+# ------------------------------------------------------------------------------
+# ------------------------------ Entorno Virtual -------------------------------
+# ------------------------------------------------------------------------------
+.venv/
+env/
+ENV/
+.Python
+geopandas/
+
+# ------------------------------------------------------------------------------
+# --------------------------- Configuración del Proyecto -----------------------
+# ------------------------------------------------------------------------------
+.vscode/                  # Configuración de VS Code
+.idea/                    # Configuración de IntelliJ/PyCharm
+*.pyc                     # Archivos compilados de Python
+__pycache__/              # Cache de Python
+*.pyo                     # Archivos optimizados de Python
+*.log                     # Archivos de logs generales
+*.spec                    # Archivos generados por PyInstaller
+*.manifest                # Archivos de manifestos
+src\__pycache__          # Cache de Python en src
+src\*.pyc
+src\*.pyo
+src/__pycache__/__init__.cpython-39.pyc
+/src/__pycache__/
+
+
+# ------------------------------------------------------------------------------
+# ------------------------------ Gestión de Datos ------------------------------
+# ------------------------------------------------------------------------------
+data/output/*             # Archivos de salida generados
+data/tmp/output/*         # Salidas temporales
+*.csv                     # Datos intermedios en CSV
+*.dat                     # Archivos DAT (si aplica)
+*.json                    # Archivos JSON intermedios
+*.gdx                     # Formatos específicos de GAMS
+
+# ------------------------------------------------------------------------------
+# ------------------------ Configuración de Jenkins/UML ------------------------
+# ------------------------------------------------------------------------------
+.jenkins/                 # Configuración de Jenkins local (si aplica)
+*.uml                     # Diagramas UML generados
+*.dot                     # Archivos DOT (gráficos de UML)
+
+# ------------------------------------------------------------------------------
+# ------------------------------- Logs y Reportes ------------------------------
+# ------------------------------------------------------------------------------
+logs/
+reports/
+*.xml                     # Reportes en formato XML
+.coverage                 # Archivos de cobertura de código
+.tox/                     # Directorio de pruebas con Tox
+.hypothesis/              # Archivos de pruebas de hipótesis
+
+# ------------------------------------------------------------------------------
+# ----------------------------------- macOS ------------------------------------
+# ------------------------------------------------------------------------------
+*.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.TemporaryItems
+.Trashes
+.apdisk
+
+# ------------------------------------------------------------------------------
+# ----------------------------------- Linux ------------------------------------
+# ------------------------------------------------------------------------------
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ------------------------------------------------------------------------------
+# ---------------------------------- Windows -----------------------------------
+# ------------------------------------------------------------------------------
+*.tmp
+[Tt]humbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ------------------------------------------------------------------------------
+# ------------------------------- Microsoft Office -----------------------------
+# ------------------------------------------------------------------------------
+~$*.doc*                  # Temporales de Word
+~$*.xls*                  # Temporales de Excel
+~$*.ppt*                  # Temporales de PowerPoint
+
+# ------------------------------------------------------------------------------
+# ------------------------------- Librerías Python -----------------------------
+# ------------------------------------------------------------------------------
+# Instaladores y configuraciones
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+develop-eggs/
+downloads/
+parts/
+wheels/
+.installed.cfg
+
+# Documentación generada
+docs/_build/
+site/
+
+# Configuración local
+.env                      # Variables de entorno
+*.mo                      # Archivos de traducción
+*.pot                     # Archivos de plantilla
+
+# Agents 
+AGENTS/
+*.pdf

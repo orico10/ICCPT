@@ -1,0 +1,17 @@
+altgraph==0.17.5
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+numpy==2.3.5
+packaging==25.0
+pandas==2.3.3
+pefile==2024.8.26
+pyinstaller==6.17.0
+pyinstaller-hooks-contrib==2025.10
+python-dateutil==2.9.0.post0
+pytz==2025.2
+pywin32-ctypes==0.2.3
+PyYAML==6.0.3
+scipy==1.16.3
+setuptools==80.9.0
+six==1.17.0
+tzdata==2025.2

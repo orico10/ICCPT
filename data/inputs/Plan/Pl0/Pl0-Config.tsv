@@ -1,0 +1,9 @@
+Stage_id	Year	DepPlan_id	DepPlan_Name	PricePlan_id	PricePlan_Name	CombinedPlan_id	CombinedPlan_Name
+0	2025	10	D0	10	P0	1	High
+1	2030	11	D1	11	P1	1	High
+2	2033	12	D2	12	P2	1	High
+3	2038	13	D3	13	P3	1	High
+0	2025	10	D0	10	P0	2	Low
+1	2030	11	D1	11	P1	2	Low
+2	2033	11	D1	12	P2	2	Low
+3	2038	12	D2	11	P1	2	Low
